@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![MasterHead](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)](https://muhammedshereefn.io)
 <h1 align="center">Hi 👋, I'm Muhammed Shereef</h1>
 <h3 align="center">I'm Muhammed Shereef, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>

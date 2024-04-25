@@ -1,4 +1,3 @@
-[![MasterHead](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)](https://muhammedshereefn.io)
 <h1 align="center">Hi 👋, I'm Muhammed Shereef</h1>
 <h4 align="center">I'm Muhammed Shereef, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h4>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">

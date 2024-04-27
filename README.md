@@ -18,53 +18,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <div style="display: flex; flex-wrap: wrap;">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="aws" width="50" height="50"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="bootstrap" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/css3.png" alt="css3" width="50" height="50"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/express.png" alt="express" width="50" height="50"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/figma.png" alt="figma" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="html5" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="javascript" width="50" height="50"/>
-    </a>
-  </div>
-  <div style="display: flex; flex-wrap: wrap;">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb" width="50" height="50"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/mysql.png" alt="mysql" width="50" height="50"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/nginx.png" alt="nginx" width="50" height="50"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs" width="50" height="50"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/postman-api.png" alt="postman" width="50" height="50"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="react" width="50" height="50"/>
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/96/000000/redux.png" alt="redux" width="50" height="50"/>
-    </a>
-  </div>
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24">
+      <path fill="#FF9900" d="M12 1L1.88 5.79l2.14 15.17L12 23l7.97-1.04L22 5.79zm-2.68 9.64L7.73 8.37l3.61-1.21-1.2 3.62zm5.5 4.6l-2.35 2.18 1.07-3.44-3.47-1.1.1-.35 3.65-1.25zm-6.82 0l3.65 1.25.1.35-3.47 1.1 1.07 3.44-2.35-2.18zm-3.82-4.6l1.38-4.16 3.62 1.21-2.31 6.69zm8.35 4.08l-.57-1.83 3.51-2.85 2.24 2.08-5.18 2.6z"/>
+    </svg>
+  </a>
+  <!-- Add more SVG icons similarly -->
 </div>
 
 

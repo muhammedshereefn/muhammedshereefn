@@ -75,12 +75,8 @@
 
 <br>
 <br>
+<br>
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshereefn&layout=compact&theme=dark" alt="muhammedshereefn" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammedshereefn&show_icons=true&theme=dark" alt="muhammedshereefn" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedshereefn&theme=dark" alt="muhammedshereefn" /></p>
 
